@@ -1,0 +1,14 @@
+.accessibility_container{
+ max-width: 1000px;
+ margin: auto;
+ direction: rtl;
+}
+
+.text_container {
+ font-size: 18px;
+}
+
+
+.text_container .bold{
+font-weight: bold;
+}
